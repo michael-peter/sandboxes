@@ -19,7 +19,7 @@ Public Class Form1
         grade = "E"
       Case Else
         grade = "F"
-      End Select
+    End Select
 
     TextBox2.Text = grade
 
